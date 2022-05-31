@@ -34,3 +34,4 @@ my growth in the field of Artificial Intelligence(AI) and to apply my skills for
 - Microsoft Power BI | Udemy.
 - Applied Data Science with Artificial Intelligence for Finance Professionals Module -I | Institute of Cost and Management Accountants of Pakistan (ICMA).
 - Applied Data Science with Artificial Intelligence for Finance Professionals Module -II | Institute of Cost and Management Accountants of Pakistan (ICMA).
+- Artificial Intelligence Course of Samsung Innovation Campus. 

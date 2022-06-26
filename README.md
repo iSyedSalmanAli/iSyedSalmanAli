@@ -11,7 +11,7 @@ environment & to undertake any responsibility desired. Would like to explore and
 my growth in the field of Artificial Intelligence(AI) and to apply my skills for the future growth of the company.
 
 ### Resume 📝
-<a href="https://github.com/iSyedSalmanAli/iSyedSalmanAli/tree/main/CV">Resume</a>
+<a href="https://github.com/iSyedSalmanAli/iSyedSalmanAli/tree/main/CV/syedsalmanali_CV.pdf">Click here</a>
 
 <img align="right" height="300" width="600" alt="" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif">
 

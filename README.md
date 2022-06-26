@@ -1,10 +1,8 @@
 <h1 align="center">hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="70"> I'm Syed Salman Ali</h1>
 </h1>
-<!-- <div align="center">
-    <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div> -->
+
 <div align="center"> 
-    <img  height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+    <img height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 </div>
 
 ### About Me 🚀
@@ -12,7 +10,7 @@ Looking for an appropriate opportunity to prove myself at any experienced and pr
 environment & to undertake any responsibility desired. Would like to explore and utilize my abilities to the best of my knowledge. To learn and enhance 
 my growth in the field of Artificial Intelligence(AI) and to apply my skills for the future growth of the company.
 
-<div align="right"> <img  height="250" width="375" alt="" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif"></div>
+<img align="right" height="250" width="375" alt="" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif">
 
 ### Skills 🎓
 - Python.

@@ -1,5 +1,4 @@
 <h1 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="70"> I'm Syed Salman Ali</h1>
-</h1>
 
 <div align="center"> 
     <img height="300" width="600" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
@@ -12,7 +11,7 @@ my growth in the field of Artificial Intelligence(AI) and to apply my skills for
 ### Resume 📝
 <a href="https://github.com/iSyedSalmanAli/iSyedSalmanAli/tree/main/CV/syedsalmanali_CV.pdf">Click here</a>
 
-<img align="right" height="370" width="600" alt="" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif">
+<img align="right" height="300" width="600" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif"/>
 
 ### Skills 🎓
 - Python.

@@ -16,7 +16,7 @@
 <a href="https://www.kaggle.com/isyedsalmanali" target="_blank" rel="noopener noreferrer">
   <img align="left" width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-256.png"  />
 </a>
- 
+<br>
 ### About Me 🚀
 Looking for an appropriate opportunity to prove myself at any experienced and professional organization, having an ability to adapt the professional 
 environment & to undertake any responsibility desired. Would like to explore and utilize my abilities to the best of my knowledge. To learn and enhance 

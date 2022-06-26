@@ -3,13 +3,14 @@
 <!-- <div align="center">
     <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div> -->
+<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
 ### About Me 🚀
 Looking for an appropriate opportunity to prove myself at any experienced and professional organization, having an ability to adapt the professional 
 environment & to undertake any responsibility desired. Would like to explore and utilize my abilities to the best of my knowledge. To learn and enhance 
 my growth in the field of Artificial Intelligence(AI) and to apply my skills for the future growth of the company.
 
-<img align="center" height="250" width="375" alt="" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+<div> <img align="center" height="250" width="375" alt="" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif"></div>
 
 ### Skills 🎓
 - Python.

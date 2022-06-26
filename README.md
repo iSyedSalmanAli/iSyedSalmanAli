@@ -6,14 +6,13 @@
 </div>
 
 ### About Me 🚀
-Looking for an appropriate opportunity to prove myself at any experienced and professional organization, having an ability to adapt the professional 
-environment & to undertake any responsibility desired. Would like to explore and utilize my abilities to the best of my knowledge. To learn and enhance 
+I'm a Junior Data Scientist looking for an appropriate opportunity to prove myself at any experienced and professional organization, having an ability to adapt the professional environment & to undertake any responsibility desired. Would like to explore and utilize my abilities to the best of my knowledge. To learn and enhance 
 my growth in the field of Artificial Intelligence(AI) and to apply my skills for the future growth of the company.
 
 ### Resume 📝
 <a href="https://github.com/iSyedSalmanAli/iSyedSalmanAli/tree/main/CV/syedsalmanali_CV.pdf">Click here</a>
 
-<img align="right" height="300" width="600" alt="" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif">
+<img align="right" height="320" width="600" alt="" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif">
 
 ### Skills 🎓
 - Python.

@@ -1,4 +1,4 @@
-Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Salman!
+<h1 align="center">hey<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"> I'm Salman</h1>
 
 <a href="mailto:i.syedsalmanali@gmail.com" target="_blank" rel="noopener noreferrer">
   <img align="left" width="26px" src="https://cdn1.iconfinder.com/data/icons/google-new-logos-1/32/gmail_new_logo-256.png" />

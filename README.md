@@ -10,7 +10,7 @@ Looking for an appropriate opportunity to prove myself at any experienced and pr
 environment & to undertake any responsibility desired. Would like to explore and utilize my abilities to the best of my knowledge. To learn and enhance 
 my growth in the field of Artificial Intelligence(AI) and to apply my skills for the future growth of the company.
 
-<img align="right" height="300" width="500" alt="" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif">
+<img align="right" height="300" width="700" alt="" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif">
 
 ### Skills 🎓
 - Python.

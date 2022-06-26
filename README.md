@@ -10,8 +10,8 @@ Looking for an appropriate opportunity to prove myself at any experienced and pr
 environment & to undertake any responsibility desired. Would like to explore and utilize my abilities to the best of my knowledge. To learn and enhance 
 my growth in the field of Artificial Intelligence(AI) and to apply my skills for the future growth of the company.
 
-### Resume 
-<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABmJLR0QA/wD/AP+gvaeTAAAAvklEQVRYhe2XXQrCMBCEP0X0THoD8Wp6PD2A7Zt4hvpSpcQsu4m0y0oGAvkjO50dBgoNzlgJ+8NS9dYzFTJjo5xLCpVCVNRdgVAETkAPdMAxORuEUY3cA91k/15IQCSkmTAtIqHarNYW7IDbZH0FtrVFLUglu/At7zlzv7gFVgLPcb0HDuP8sSSBXyG+FyoH/pOANQc0P7xzIL2n5kMYBaxJV5yIYRTIeSD3tc0D8TzgTkBrwVz/Bx+4K9DgjhdEb0FJL6ERoAAAAABJRU5ErkJggg==">
+### Resume 📝
+<a href="https://github.com/iSyedSalmanAli/iSyedSalmanAli/tree/main/CV">Resume</a>
 
 <img align="right" height="300" width="600" alt="" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif">
 

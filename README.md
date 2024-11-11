@@ -7,7 +7,9 @@
 <h3 align="center">About Me 🚀</h3>
 
 <p align="center">
-I'm a Junior Data Scientist looking for an opportunity to prove myself at an experienced and professional organization. I have the ability to adapt to a professional environment and take on responsibilities as needed. I’m eager to explore and utilize my skills to the best of my knowledge, continuously learning to grow in the field of Artificial Intelligence (AI), and contributing to the future growth of my team and organization.
+I'm a Cloud Team Lead and Python Developer with a passion for creating scalable, secure, and efficient cloud solutions. I thrive in professional environments where I can take on complex responsibilities, lead collaborative teams, and drive technical innovation. With expertise in cloud infrastructure (particularly AWS) and backend development in Python, I am dedicated to leveraging my skills to contribute to impactful, future-focused projects.
+
+I am continually enhancing my knowledge in cloud technologies, DevOps practices, and AI applications, aiming to bring growth and success to both my team and organization.
 </p>
 
 <!-- ### Resume<div align="center">

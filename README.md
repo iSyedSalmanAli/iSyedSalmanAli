@@ -22,6 +22,8 @@ my growth in the field of Artificial Intelligence(AI) and to apply my skills for
 - Power BI.
 - Communication skills.
 
+<img align="right" height="300" width="600" src="https://github.com/iSyedSalmanAli/Data-Science-Projects/blob/main/DataCamp%20materials/portfolio%20image.gif?raw=true"/>
+
 ### Honors & Awards 🏅
 - Python for Data Science | Udemy.
 - Industrial Data Science Training | Ned Univeristy.

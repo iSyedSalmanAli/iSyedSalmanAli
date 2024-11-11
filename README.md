@@ -36,12 +36,12 @@ I am continually enhancing my knowledge in cloud technologies, DevOps practices,
 
 <div align="center">
 <ul>
-    <li>Python for Data Science | Udemy</li>
-    <li>Industrial Data Science Training | NED University</li>
-    <li>Microsoft Power BI | Udemy</li>
-    <li>Applied Data Science with AI for Finance Professionals Module - I | ICMA Pakistan</li>
-    <li>Applied Data Science with AI for Finance Professionals Module - II | ICMA Pakistan</li>
-    <li>Artificial Intelligence Course, Samsung Innovation Campus | Mohammad Ali Jinnah University</li>
+    <li>Python for Data Science [Udemy]</li>
+    <li>Industrial Data Science Training [NED University]</li>
+    <li>Microsoft Power BI [Udemy]</li>
+    <li>Applied Data Science with AI for Finance Professionals Module - I [ICMA Pakistan]</li>
+    <li>Applied Data Science with AI for Finance Professionals Module - II [ICMA Pakistan]</li>
+    <li>Artificial Intelligence Course, Samsung Innovation Campus [Mohammad Ali Jinnah University]</li>
 </ul>
 </div>
 

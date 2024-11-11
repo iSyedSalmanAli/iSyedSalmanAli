@@ -11,7 +11,7 @@ my growth in the field of Artificial Intelligence(AI) and to apply my skills for
 <!-- ### Resume 📝
 <a href="https://github.com/iSyedSalmanAli/iSyedSalmanAli/tree/main/CV/syedsalmanali_CV.pdf">Click here</a> -->
 
-<img align="right" height="300" width="600" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif"/>
+<img align="right" height="300" width="500" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif"/>
 
 ### Skills 🎓
 - Python.
@@ -22,7 +22,7 @@ my growth in the field of Artificial Intelligence(AI) and to apply my skills for
 - Power BI.
 - Communication skills.
 
-<img align="right" height="300" width="600" src="https://github.com/iSyedSalmanAli/Data-Science-Projects/blob/main/DataCamp%20materials/portfolio%20image.gif?raw=true"/>
+<img align="right" height="300" width="500" src="https://github.com/iSyedSalmanAli/Data-Science-Projects/blob/main/DataCamp%20materials/portfolio%20image.gif?raw=true"/>
 
 ### Honors & Awards 🏅
 - Python for Data Science | Udemy.

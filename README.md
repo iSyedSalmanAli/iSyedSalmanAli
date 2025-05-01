@@ -36,7 +36,7 @@
 <h3 align="center">🏆 Honors & Certifications</h3>
 
 <div align="center">
-  <ul>
+  <ul style="text-align: left; display: inline-block;">
     <li>Python for Data Science — Udemy</li>
     <li>Industrial Data Science Training — NED University</li>
     <li>Microsoft Power BI — Udemy</li>

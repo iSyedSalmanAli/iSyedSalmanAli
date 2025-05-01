@@ -13,6 +13,10 @@
   I’m passionate about leveraging cloud platforms—especially AWS—to create innovative products that make an impact. I’m also a lifelong learner, currently expanding my expertise in DevOps, infrastructure as code (IaC), and AI integrations.
 </p>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300" alt="Working GIF"/>
+</div>
+
 ---
 
 <h3 align="center">🛠️ Technical Skills</h3>
@@ -52,6 +56,10 @@
     <li><a href="https://github.com/YourProjectLink">Project 1</a> — Cloud-based backend system for scalable data ingestion using AWS Lambda, S3, and DynamoDB.</li>
     <li><a href="https://github.com/YourProjectLink">Project 2</a> — Data pipeline automation for real-time analytics using Python, Apache Airflow, and Power BI.</li>
   </ul>
+</div>
+
+<div align="center">
+  <img src="https://github.com/iSyedSalmanAli/Data-Science-Projects/blob/main/DataCamp%20materials/portfolio%20image.gif?raw=true" width="600" height="300" alt="Portfolio Animation"/>
 </div>
 
 ---

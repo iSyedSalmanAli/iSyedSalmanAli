@@ -15,11 +15,9 @@
 
 ---
 
-<img align="right" height="300" width="600" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" alt="Working"/>
-
 <h3 align="center">🛠️ Technical Skills</h3>
 
-<div align="center">
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
@@ -29,7 +27,7 @@
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/CI/CD-007ACC?style=for-the-badge&logo=azuredevops&logoColor=white"/>
   <img src="https://img.shields.io/badge/Team%20Leadership-28A745?style=for-the-badge"/>
-</div>
+</p>
 
 ---
 
@@ -45,15 +43,12 @@
   </ul>
 </div>
 
-
 ---
-
-<img align="right" height="300" width="600" src="https://github.com/iSyedSalmanAli/Data-Science-Projects/blob/main/DataCamp%20materials/portfolio%20image.gif?raw=true" alt="Projects Portfolio"/>
 
 <h3 align="center">💻 Projects & Case Studies</h3>
 
 <div align="center">
-  <ul>
+  <ul style="text-align: left; display: inline-block;">
     <li><a href="https://github.com/YourProjectLink">Project 1</a> — Cloud-based backend system for scalable data ingestion using AWS Lambda, S3, and DynamoDB.</li>
     <li><a href="https://github.com/YourProjectLink">Project 2</a> — Data pipeline automation for real-time analytics using Python, Apache Airflow, and Power BI.</li>
   </ul>
@@ -76,5 +71,3 @@
     <img width="26" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-256.png" alt="Kaggle"/>
   </a>
 </div>
-
----

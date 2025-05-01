@@ -45,6 +45,7 @@
   </ul>
 </div>
 
+
 ---
 
 <img align="right" height="300" width="600" src="https://github.com/iSyedSalmanAli/Data-Science-Projects/blob/main/DataCamp%20materials/portfolio%20image.gif?raw=true" alt="Projects Portfolio"/>
